@@ -1,4 +1,5 @@
-##Chicago Data Analysis
+##**Chicago Data Analysis**
+
 This project focuses on analyzing and querying multiple datasets related to Chicago, including Chicago Crime Data, Chicago Census Data, and Chicago Public Schools Data. The data is loaded into an SQLite database to facilitate complex queries and analysis. The project demonstrates how to work with large datasets using SQL and Python (Pandas) for data extraction, transformation, and visualization.
 
 Key Features:
